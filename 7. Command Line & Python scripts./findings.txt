@@ -1,0 +1,10 @@
+There is small group of school in juvenile justice (only 8 from 1000).
+
+Also I have  built two pivot tables, which  allow me to aggregate TOT_ENR_M and TOT_ENR_F (which record school enrollment by gender) by JJ and SCH_STATUS_MAGNET. This will count up how many students are in magnet schools or juvenile justice facilities.
+
+It seems that almost all pupils from those 8 schools are male. 
+Instead, in "magnet school" there is no gender disbalance and amounts of gender group Are approximately equal
+
+I have just finished summarize percentage of enrollment by gender in US schools. From results of  comparison with US population, there are interesting patterns.
+White American have less children in school (-0.25 negative correlation) than Hispanic (+0.62 pos corr) or Black (+0.16 pos cor). I assume, this correlation depends on general demographic situation and reflects sex rates by gender.
+So, every fourth white american family doesnt have child of schhol-age, but each third hispanic american family has one 
